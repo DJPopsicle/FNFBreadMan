@@ -42,6 +42,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install flixel-addons
           haxelib install tjson
+          haxelib install newgrounds
           haxelib install hxjsonast
           haxelib install linc_luajit
           haxelib install hscript
@@ -82,6 +83,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install flixel-addons
           haxelib install tjson
+          haxelib install newgrounds
           haxelib install hxjsonast
           haxelib install linc_luajit
           haxelib install hscript
@@ -123,6 +125,7 @@ jobs:
           haxelib install flixel-ui
           haxelib install flixel-addons
           haxelib install tjson
+          haxelib install newgrounds
           haxelib install hxjsonast
           haxelib install linc_luajit
           haxelib install hscript
